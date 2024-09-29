@@ -114,6 +114,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Shovon Saha - theshovonsaha@gmail.com
 
-Project Link: [https://github.com/yourusername/distributed-testing-framework](https://github.com/yourusername/distributed-testing-framework)
+Project Link: [https://github.com/theshovonsaha/Distributed-Test-System-CLI](https://github.com/theshovonsaha/Distributed-Test-System-CLI)
