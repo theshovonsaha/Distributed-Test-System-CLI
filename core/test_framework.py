@@ -50,7 +50,7 @@ class TestFramework:
 # Example test function
 @pytest.mark.asyncio
 async def example_test():
-    assert 1 + 1 == 3, "Basic addition should work"
+    assert 1 + 1 == 2, "Basic addition should work"
 
 # Setup for pytest
 def pytest_generate_tests(metafunc):
