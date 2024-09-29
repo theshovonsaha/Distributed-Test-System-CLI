@@ -1,0 +1,8 @@
+pytest
+pytest-asyncio
+hypothesis
+pylint
+mypy
+click
+matplotlib
+networkx
